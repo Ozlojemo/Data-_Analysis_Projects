@@ -11,4 +11,15 @@ Five visualizations are created using matplotlib and geopandas. The first visual
 The second visualization shows the tectonic plates around the globe by combining the dataset with the available data from the geopandas datasets. 
 The third visualization shows the distribution across the globe using size difference. 
 The fourth visualization shows the locations of the most active volcanoes since 1800, and the fifth visualization shows the frequency of eruptions per month worldwide for a chosen year
-## Key analysis and findings
+## Key itmes to note on volcanic eruptions
+
+Volcanic eruptions are natural phenomena that occur when magma, ash, and gas are released from a volcano. These eruptions can be explosive or effusive in nature, depending on the type of volcano and the viscosity of the magma.
+
+Explosive eruptions occur when gas-rich magma is violently ejected from the volcano, sending ash, rocks, and other debris high into the air. These eruptions can be very destructive and can cause significant damage to the surrounding area.
+
+Effusive eruptions, on the other hand, occur when less viscous magma flows relatively calmly out of the volcano, often creating lava flows that can be slow-moving or fast-moving depending on the slope of the volcano.
+
+Volcanic eruptions can also release gases such as carbon dioxide, sulfur dioxide, and hydrogen sulfide, which can have harmful effects on the environment and human health.
+
+It's important to note that volcanic eruptions can be difficult to predict, and can occur suddenly and without warning. Scientists monitor volcanoes around the world to try to predict when an eruption may occur and take steps to mitigate the potential damage.
+
