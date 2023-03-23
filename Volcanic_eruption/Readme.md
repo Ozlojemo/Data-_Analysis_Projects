@@ -23,3 +23,21 @@ Volcanic eruptions can also release gases such as carbon dioxide, sulfur dioxide
 
 It's important to note that volcanic eruptions can be difficult to predict, and can occur suddenly and without warning. Scientists monitor volcanoes around the world to try to predict when an eruption may occur and take steps to mitigate the potential damage.
 
+## Data Exploration and Findings
+
+### 1. The category of volcanoes that have the highest effects on population. 
+
+From the study I was are able to identify that volcano type Stratovolcano(es) has the highest effect on population
+
+### 2. Visualization of the tectonic plates around the globe
+
+I was able to visualize the tectonic plates around the globe using the above already defined code concept
+
+### 3.Locations of most active volcanoes since 1800
+
+I was able to establish the regions and locations with the most active volcanoes. This were mainly the Japan,Indonesia,United States,Russia and
+Iceland 
+
+
+
+
