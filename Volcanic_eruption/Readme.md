@@ -11,3 +11,4 @@ Five visualizations are created using matplotlib and geopandas. The first visual
 The second visualization shows the tectonic plates around the globe by combining the dataset with the available data from the geopandas datasets. 
 The third visualization shows the distribution across the globe using size difference. 
 The fourth visualization shows the locations of the most active volcanoes since 1800, and the fifth visualization shows the frequency of eruptions per month worldwide for a chosen year
+## Key analysis and findings
