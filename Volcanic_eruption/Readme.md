@@ -1,4 +1,4 @@
-# Volcanic eruptions analysis and findings
+# Volcanic Eruptions Analysis and Findings
 
 ![Volcanic eruption](https://c.files.bbci.co.uk/113D1/production/_110090607_gettyimages-512766800.jpg)
 
