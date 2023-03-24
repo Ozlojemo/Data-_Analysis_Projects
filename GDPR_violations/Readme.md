@@ -162,6 +162,34 @@ v)Blockchain Technology: Blockchain technology has the potential to revolutioniz
 
 Overall, the global trend in data protection is toward greater transparency, accountability, and consumer protection. Companies that want to stay ahead of the curve need to be proactive about adopting data protection policies and practices that comply with the latest regulations and standards.
 
+ ### 5.Use your graphics and much more interesting ones, to provide more insight. For every chart, have a detailed explanation.
+ 
+ #### Que.1 Time breakdown of the total violations in the EU
+ 
+ ![Time breakdown of the total violations in the EU](https://github.com/Ozlojemo/Data_Analysis_Projects/blob/main/GDPR_violations/plot/Question%20one.png?raw=true)
+
+
+#### Que.2 Most expensive violation by country
+![Most expensive violation by country](https://github.com/Ozlojemo/Data_Analysis_Projects/blob/main/GDPR_violations/plot/Question%20Two.png?raw=true)
+
+
+#### Que.3 Companies with the highest violations
+
+![Companies with the highest violations](https://github.com/Ozlojemo/Data_Analysis_Projects/blob/main/GDPR_violations/plot/Question%20Three.png?raw=true)
+
+
+#### Que.4 Map the data and make this interactive
+
+![Map the data and make this interactive](https://github.com/Ozlojemo/Data_Analysis_Projects/blob/main/GDPR_violations/plot/Question%20Four.png?raw=true)
+
+
+#### Que.5 Breakdown / Distribution and important metrics of fines levied per article
+
+![Breakdown / Distribution and important metrics of fines levied per article](https://github.com/Ozlojemo/Data_Analysis_Projects/blob/main/GDPR_violations/plot/Question%20Five.png?raw=true)
+
+
+
+
 
 
 
