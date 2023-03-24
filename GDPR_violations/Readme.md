@@ -191,12 +191,25 @@ Google had the highest count of GDPR violations among companies, with a telecomm
 
 Germany had the largest number of GDPR violations recorded, with Spain and Italy ranking second and third, respectively.
 
+#### Top 10 most violated articles
+
 
 #### Conclusion
 
 The increase in data usage and the importance of safeguarding users' privacy has resulted in the establishment of data protection and privacy regulations. This assessment underscores the significance for companies to ensure conformity with GDPR guidelines to steer clear of substantial penalties and safeguard their image.
 
-
+Most Violated Articles   | no.of Violation |
+| ------------- | ------------- |
+| Art. 32 GDPR |  40  |
+| Art. 6 GDPR  |  33 |
+| Art. 5 GDPR Art. 6, GDPR  | 20  |
+| Art. 15 GDPR  | 10  |
+| Art. 5 GDPR  | 10 |
+| Art. 5 (1) f) GDPR, Art. 32 GDPR   | 10 |
+| Art. 5 (1) f), GDPR  | 7  |
+| Art. 13 GDPR  | 7  |
+| Art. 5 (1) a) GDPR, Art. 6 GDPR  | 6  |
+| Art. 5 (1) c) GDPR  | 6  |
 
 
 
