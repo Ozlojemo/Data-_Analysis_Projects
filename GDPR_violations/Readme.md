@@ -207,6 +207,9 @@ Most Violated Articles   | no.of Violation |
 | Art. 5 (1) c) GDPR  | 6  |
 
 
+Out of all the articles in GDPR, Article 32, which concerns the security of processing, was the one that was most frequently violated with a total of 40 violations. The top 10 most frequently violated articles pertained to the processing of data, the rights of data subjects, and incidents of data breaches.
+
+
 #### Article with the highest associated fine
 
 | Highest Associated Fine | Fine |
@@ -216,6 +219,9 @@ Most Violated Articles   | no.of Violation |
 | Art. 5 (1) a) GDPR,Art. 6 GDPR  | 18000000  |
 | Art. 5 GDPR,Art. 25 GDPR  | 14500000  |
 | Art. 32 GDPR   | 9550000  |
+
+
+The highest fine associated with a GDPR violation was related to a breach of multiple articles including Art. 4 GDPR, Art. 5 GDPR, Art. 6 GDPR, Art. 13 GDPR, and Art. 14 GDPR. The top 5 articles with the highest fines were those related to the obligation to provide clear and concise information to data subjects (Art. 13 and Art. 14), principles related to the processing of personal data (Art. 5 and Art. 6), and the definitions of certain terms used within the regulation (Art. 4).
 
 #### Conclusion
 
