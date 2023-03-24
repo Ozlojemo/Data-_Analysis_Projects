@@ -169,23 +169,33 @@ Overall, the global trend in data protection is toward greater transparency, acc
  ![Time breakdown of the total violations in the EU](https://github.com/Ozlojemo/Data_Analysis_Projects/blob/main/GDPR_violations/plot/Question%20one.png?raw=true)
 
 
+In the EU, there was an increase in the total count of GDPR infringements from 2018 to 2019, with Germany and the UK reporting the largest number of violations.
+
 #### Que.2 Most expensive violation by country
 ![Most expensive violation by country](https://github.com/Ozlojemo/Data_Analysis_Projects/blob/main/GDPR_violations/plot/Question%20Two.png?raw=true)
 
+Regarding GDPR violations, the costliest one, in terms of the imposed penalty, was linked to Article 32, which pertains to the security of data processing.
 
 #### Que.3 Companies with the highest violations
 
+Google had the highest count of GDPR violations among companies, with a telecommunications firm, a bank, and a social media company following closely behind.
+
 ![Companies with the highest violations](https://github.com/Ozlojemo/Data_Analysis_Projects/blob/main/GDPR_violations/plot/Question%20Three.png?raw=true)
+
+
 
 
 #### Que.4 Map the data and make this interactive
 
 ![Map the data and make this interactive](https://github.com/Ozlojemo/Data_Analysis_Projects/blob/main/GDPR_violations/plot/Question%20Four.png?raw=true)
 
+Germany had the largest number of GDPR violations recorded, with Spain and Italy ranking second and third, respectively.
 
-#### Que.5 Breakdown / Distribution and important metrics of fines levied per article
 
-![Breakdown / Distribution and important metrics of fines levied per article](https://github.com/Ozlojemo/Data_Analysis_Projects/blob/main/GDPR_violations/plot/Question%20Five.png?raw=true)
+#### Conclusion
+
+The increase in data usage and the importance of safeguarding users' privacy has resulted in the establishment of data protection and privacy regulations. This assessment underscores the significance for companies to ensure conformity with GDPR guidelines to steer clear of substantial penalties and safeguard their image.
+
 
 
 
