@@ -193,11 +193,6 @@ Germany had the largest number of GDPR violations recorded, with Spain and Italy
 
 #### Top 10 most violated articles
 
-
-#### Conclusion
-
-The increase in data usage and the importance of safeguarding users' privacy has resulted in the establishment of data protection and privacy regulations. This assessment underscores the significance for companies to ensure conformity with GDPR guidelines to steer clear of substantial penalties and safeguard their image.
-
 Most Violated Articles   | no.of Violation |
 | ------------- | ------------- |
 | Art. 32 GDPR |  40  |
@@ -210,6 +205,25 @@ Most Violated Articles   | no.of Violation |
 | Art. 13 GDPR  | 7  |
 | Art. 5 (1) a) GDPR, Art. 6 GDPR  | 6  |
 | Art. 5 (1) c) GDPR  | 6  |
+
+
+#### Article with the highest associated fine
+
+| Highest Associated Fine | Fine |
+| ------------- | ------------- |
+| Art. 13 GDPR,Art. 14 GDPR,Art. 6 GDPR,Art. 4 GDPR,Art. 5 GDPR  | 50000000  |
+| Art. 58(2) GDPR  | 27802946 |
+| Art. 5 (1) a) GDPR,Art. 6 GDPR  | 18000000  |
+| Art. 5 GDPR,Art. 25 GDPR  | 14500000  |
+| Art. 32 GDPR   | 9550000  |
+
+#### Conclusion
+
+The increase in data usage and the importance of safeguarding users' privacy has resulted in the establishment of data protection and privacy regulations. This assessment underscores the significance for companies to ensure conformity with GDPR guidelines to steer clear of substantial penalties and safeguard their image.
+
+
+
+
 
 
 
