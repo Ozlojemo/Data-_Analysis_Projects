@@ -47,3 +47,51 @@ The code groups the data by the article violated and calculates various metrics,
 
 vii)Top 10 most violated articles:
 The code gets the value counts of the article violated column and finds the top 10 most frequently violated articles.
+
+## Data Exploration and Findings
+
+### 1.Explore the provided data and understand the business context by doing research on Data Protection and Privacy regulations locally and globally.
+
+The provided data contains information on customers who purchased items from an e-commerce store. The dataset includes information such as customer names, email addresses, phone numbers, items purchased, and the amount spent.
+
+In Kenya, the Data Protection Act was enacted in 2019, and it sets out rules and regulations on the processing of personal data. The Act requires organizations that collect and process personal data to ensure that such data is obtained and processed lawfully, transparently, and for specific, explicit, and legitimate purposes. The Act also requires organizations to obtain consent from individuals before collecting and processing their personal data and to provide individuals with access to their personal data upon request.
+
+Globally, there are various data protection and privacy regulations, such as the General Data Protection Regulation (GDPR) in the European Union (EU) and the California Consumer Privacy Act (CCPA) in the United States. These regulations provide guidelines and rules for the collection, use, and protection of personal data, including requirements for obtaining consent, ensuring data accuracy, and providing individuals with access to their data.
+
+Based on the provided and analysed data, it is important for the organizations to ensure that they are compliant with local and global data protection and privacy regulations. This can include obtaining consent from customers before collecting and processing their personal data, ensuring that the data is accurate and up-to-date, and providing customers with access to their data upon request. The organizations should also ensure that appropriate measures are in place to protect the data from unauthorized access or disclosure.
+
+### 3.Obtaining an understanding of what are the implications of non-compliance and the core principles of the Data Protection Act.
+
+Based on the analysis of the provided data and the business context, the implications of non-compliance with data protection and privacy regulations can be severe. Non-compliance can lead to legal and financial penalties, reputational damage, loss of customer trust, and potential business closure.
+
+In Kenya, the core principles of the Data Protection Act include:
+
+i)Lawfulness, fairness, and transparency: Personal data must be processed lawfully, fairly, and in a transparent manner.
+
+ii)Purpose limitation: Personal data must be collected for specified, explicit, and legitimate purposes and not processed in a manner that is incompatible with those purposes.
+
+iii)Data minimization: Personal data must be adequate, relevant, and limited to what is necessary in relation to the purposes for which they are processed.
+
+iv)Accuracy: Personal data must be accurate and, where necessary, kept up to date.
+
+v)Storage limitation: Personal data must be kept in a form that permits identification of data subjects for no longer than is necessary for the purposes for which the personal data are processed.
+
+vi)Integrity and confidentiality: Personal data must be processed in a manner that ensures appropriate security, including protection against unauthorized or unlawful processing and against accidental loss, destruction, or damage.
+
+Globally, data protection and privacy regulations vary by country, but many share similar core principles, including:
+
+i)Transparency: Individuals have the right to know what personal data is being collected, processed, and stored about them.
+
+ii)Purpose limitation: Personal data must be collected for specified, explicit, and legitimate purposes and not processed in a manner that is incompatible with those purposes.
+
+iii)Data minimization: Personal data must be adequate, relevant, and limited to what is necessary in relation to the purposes for which they are processed.
+
+iv)Accuracy: Personal data must be accurate and, where necessary, kept up to date.
+
+v)Storage limitation: Personal data must be kept in a form that permits identification of data subjects for no longer than is necessary for the purposes for which the personal data are processed.
+
+vi)Integrity and confidentiality: Personal data must be processed in a manner that ensures appropriate security, including protection against unauthorized or unlawful processing and against accidental loss, destruction, or damage.
+
+
+
+
