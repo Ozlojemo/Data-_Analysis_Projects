@@ -104,26 +104,31 @@ Slide Title: Challenges in Effective Implementation of Data Protection Act in Ke
 
 Slide Content:
 
-Introduction:
+### Introduction:
 
 Briefly explain the importance of data protection and privacy regulations in Kenya.
-Lack of Awareness and Understanding:
 
-Many organizations and individuals are still not aware of the requirements of the Data Protection Act.
-Lack of understanding of the law has resulted in non-compliance and a low level of protection for personal data.
-Inadequate Resources:
+### Lack of Awareness and Understanding:
 
-Limited resources allocated towards the implementation of the Data Protection Act by both public and private sectors.
-Inadequate funding and training opportunities for organizations to implement data protection measures.
-Limited Enforcement Mechanisms:
+i)Many organizations and individuals are still not aware of the requirements of the Data Protection Act.
+ii)Lack of understanding of the law has resulted in non-compliance and a low level of protection for personal data.
 
-The lack of clear guidelines for enforcement of the Data Protection Act has led to inconsistent enforcement of the law.
-Limited resources for the regulatory body responsible for overseeing data protection in Kenya has led to slow enforcement actions.
-Cultural and Social Challenges:
+### Inadequate Resources:
 
-Social and cultural attitudes towards privacy and data protection may hinder effective implementation of the Data Protection Act.
-The reluctance of individuals to share personal data due to mistrust and fear of data misuse.
-Conclusion:
+i)Limited resources allocated towards the implementation of the Data Protection Act by both public and private sectors.
+ii)Inadequate funding and training opportunities for organizations to implement data protection measures.
+
+### Limited Enforcement Mechanisms:
+
+i)The lack of clear guidelines for enforcement of the Data Protection Act has led to inconsistent enforcement of the law.
+ii)Limited resources for the regulatory body responsible for overseeing data protection in Kenya has led to slow enforcement actions.
+
+### Cultural and Social Challenges:
+
+i)Social and cultural attitudes towards privacy and data protection may hinder effective implementation of the Data Protection Act.
+ii)The reluctance of individuals to share personal data due to mistrust and fear of data misuse.
+
+### Conclusion:
 
 Effective implementation of the Data Protection Act in Kenya requires addressing these challenges to ensure the protection of personal data and compliance with the law.
 
