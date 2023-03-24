@@ -106,7 +106,7 @@ Slide Content:
 
 ### Introduction:
 
-Briefly explain the importance of data protection and privacy regulations in Kenya.
+I will briefly explain the importance of data protection and privacy regulations in Kenya taking key points already discussed above.
 
 ### Lack of Awareness and Understanding:
 
